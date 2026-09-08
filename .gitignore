@@ -1,0 +1,18 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor directories
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# Any leftover zip archives (the source zip is not needed in the repo)
+*.zip
+
+# Duplicate/backup HTML files (keep only index.html)
+index\ copy.html
